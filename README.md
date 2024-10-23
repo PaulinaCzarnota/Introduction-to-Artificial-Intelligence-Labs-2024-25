@@ -26,4 +26,4 @@ This repository contains a collection of labs from the Introduction to Artificia
 **Lab 6: Implementing and Training a Perceptron**  
 - Focused on implementing and training a single-layer perceptron to learn logical functions (AND, OR, XOR) using both step and sigmoid activation functions.  
 - The perceptron adjusted its weights and bias during training to minimize errors, successfully learning simple tasks (AND, OR) while facing challenges with the more complex XOR function.  
-- Explored the effects of varying learning rates and training iterations on the perceptron's performance.
+- Explored the effects of varying learning rates and training iterations on the perceptron's performance. 
