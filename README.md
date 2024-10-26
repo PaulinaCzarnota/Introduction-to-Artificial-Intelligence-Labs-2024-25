@@ -26,4 +26,10 @@ This repository contains a collection of labs from the Introduction to Artificia
 **Lab 6: Implementing and Training a Perceptron**  
 - Focused on implementing and training a single-layer perceptron to learn logical functions (AND, OR, XOR) using both step and sigmoid activation functions.  
 - The perceptron adjusted its weights and bias during training to minimize errors, successfully learning simple tasks (AND, OR) while facing challenges with the more complex XOR function.  
-- Explored the effects of varying learning rates and training iterations on the perceptron's performance. 
+- Explored the effects of varying learning rates and training iterations on the perceptron's performance.
+
+**Lab 7: List Recursion in Prolog**  
+- Completed LPN exercises focusing on list recursion in Prolog.
+- Developed `number_translation.pl`, a program that translates numbers between German and English, utilizing a recursive predicate `listtran/2` for handling both directions of translation.
+- Implemented `twice_list.pl`, which duplicates each element in a list using a recursive approach with the predicate `twice/2`.
+- Reinforced my understanding of recursion and its practical applications in list processing within Prolog.
