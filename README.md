@@ -1,4 +1,4 @@
-This repository contains a collection of labs from the Introduction to Artificial Intelligence course, completed during the third year of the Computer Science program at TU Dublin.
+This repository contains a collection of labs from the Introduction to Artificial Intelligence module, completed during the third year of the Computer Science program at TU Dublin.
 
 # Lab Summaries
 
