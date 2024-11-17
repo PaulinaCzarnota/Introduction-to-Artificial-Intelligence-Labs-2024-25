@@ -58,10 +58,28 @@ In Lab 7, I created a Prolog program to translate number words between German an
 - I tested the program with various queries to ensure it handled both individual number words and lists accurately.
 - The system was designed to handle empty lists and larger number values, which allowed me to explore how recursion can be applied to translation tasks.
 
-### Lab 8: Neural Network with 1 Hidden Layer
+### Lab 8: Neural Network with 1 Hidden Layer & Prolog Lab Test Exercises
+
 In this lab, I built a neural network with one hidden layer to solve a classification problem.
 
 - I implemented a simple neural network using a 5x4 weight matrix and trained it with a dataset of 16 input samples and 5 corresponding output values.
 - I defined a `sigm` function for the sigmoid activation function and used it to compute the output from the weighted sum of inputs.
 - I implemented the `feedforward` method to process inputs through the network and calculate the output, followed by a cost function to compute the Mean Squared Error (MSE) between predicted and actual outputs.
 - The network was trained using backpropagation, with weight adjustments based on the computed error. The goal was to minimize the MSE during training and improve prediction accuracy.
+
+Additionally, I completed 14 practical lab test exercises from LPN in Prolog, which involved:
+
+- **Magic and Wizards**: Implementing rules to classify different magical characters, including house elves, witches, and wizards.
+- **Maze Path**: Defining paths between connected points and writing recursive rules to find possible routes.
+- **Travel Information**: Using Prolog to model various modes of travel (car, train, plane) and defining a travel predicate to find routes between locations.
+- **Travel with Detailed Routes**: Extending the travel logic to output detailed routes with transport modes.
+- **List Translation**: Implementing a translation of German numbers to English using list manipulation.
+- **Double List**: Doubling elements of a list.
+- **Combine Lists**: Combining two lists in different ways, such as alternating elements, creating pairs, or using a custom structure.
+- **Scalar Multiplication and Dot Product**: Writing predicates for scalar multiplication of lists and calculating the dot product of two lists.
+- **Palindrome**: Checking if a list is a palindrome by comparing it to its reverse.
+- **Top Tail**: Removing the first and last elements of a list.
+- **Last Element**: Finding the last element of a list using recursion and reverse.
+- **Swap First and Last Elements**: Swapping the first and last elements in a list.
+- **Remove Nth Element**: Removing the nth element from a list.
+- **Reverse List**: Reversing a list using recursion.
