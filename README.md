@@ -83,3 +83,21 @@ Additionally, I completed 14 practical lab test exercises from LPN in Prolog, wh
 - **Swap First and Last Elements**: Swapping the first and last elements in a list.
 - **Remove Nth Element**: Removing the nth element from a list.
 - **Reverse List**: Reversing a list using recursion.
+
+### Lab 9: LPN Section 5.5, 5.6 Exercises & List Operations
+
+In Lab 9, I worked through exercises from *Learn Prolog Now* (LPN) and implemented several list operations in Prolog:
+
+#### LPN Section 5.5 Exercises
+- I worked on understanding arithmetic operations in Prolog, such as `X = 3*4` and `X is 3*4`, learning the difference between unification and evaluation.
+- I explored more complex expressions like `+(1,2)` and `*(7, +(3,2))`, reinforcing Prolog’s handling of arithmetic operations.
+
+#### LPN Section 5.6 Exercises
+- Implemented the `increment/2` predicate to check if the second argument is one more than the first.
+- Defined the `sum/3` predicate to check if the third argument is the sum of the first two.
+- Created the `addone/2` predicate to add 1 to each element in a list, demonstrating recursion and list manipulation.
+
+#### List Operations
+- **Doubling elements** in a list using the `double/2` predicate.
+- **Summing all elements** in a list with the `sum_list/2` predicate.
+- **Zipping two lists** together with the `zip/3` predicate, combining corresponding elements from two lists.
